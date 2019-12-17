@@ -2,6 +2,9 @@
 # Dictionary: {}
 # Tuple: ()
 
+# Tuple: immutable
+# List: mutable
+
 post = ('Python Basics', 'Intrro guide to python', 'Some cool python content')
 
 # Tuple unpacking
