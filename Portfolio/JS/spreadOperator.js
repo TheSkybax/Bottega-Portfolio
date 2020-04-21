@@ -6,11 +6,11 @@ shoppingCart.push(...newItems);
 console.log(shoppingCart); // [345, 375, 765, 123, 98, 123]
 
 // Copying Arrays
-const shoppingCart = [345, 375, 765, 123];
-const updatedCart = [...shoppingCart];
+const shoppingCart_2 = [345, 375, 765, 123];
+const updatedCart = [...shoppingCart_2];
 updatedCart.push(5);
 console.log(updatedCart);
-console.log(shoppingCart);
+console.log(shoppingCart_2);
 
 const orderTotals = [1, 5, 1, 10, 2, 3];
 console.log(Math.max(...orderTotals));
