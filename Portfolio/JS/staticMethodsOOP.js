@@ -23,11 +23,13 @@ class Instructor {
 Instructor.helloWorld();
 
 let jon = new Instructor({ 'name': 'Jon' });
+jon.renderDetails();
 console.log(
     `${jon.name} can teach: ${Instructor.canTeach(jon)}`
 );
 
 let alice = new Instructor({ 'name': 'Alice', 'role': 'classroom' });
+alice.renderDetails();
 console.log(
     `${alice.name} can teach: ${Instructor.canTeach(alice)}`
 );
