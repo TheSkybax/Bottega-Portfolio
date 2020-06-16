@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/TheSkybax/Bottega-Portfolio/tree/master/Portfolio/JS/npm/cm-devcamp-js-footer/issues"
   },
-  "homepage": "https://github.com/TheSkybax/Bottega-Portfolio/tree/master/Portfolio/JS/npm/cm-devcamp-js-footer#readme"
+  "homepage": "https://github.com/TheSkybax/Bottega-Portfolio/tree/master/Portfolio/JS/npm/cm-devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
 }
