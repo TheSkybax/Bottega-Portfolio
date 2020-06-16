@@ -14,5 +14,9 @@
     "footer"
   ],
   "author": "Calvin Myall",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheSkybax/Bottega-Portfolio/tree/master/Portfolio/JS/npm/cm-devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/TheSkybax/Bottega-Portfolio/tree/master/Portfolio/JS/npm/cm-devcamp-js-footer#readme"
 }
