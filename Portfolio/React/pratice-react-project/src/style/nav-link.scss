@@ -1,0 +1,24 @@
+.nav-link-wrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+  a {
+    color: red;
+    margin: 10px 50px;
+    border-bottom: transparent 0.5px solid;
+    font-size: large;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 600;
+    transition: 0.5s ease-in-out;
+
+    &:hover {
+      border-bottom: black 0.5px solid;
+    }
+  }
+
+  .nav-link-active {
+    color: black;
+  }
+}
